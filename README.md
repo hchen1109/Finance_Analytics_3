@@ -1,4 +1,4 @@
-# 
+# Finance_Analytics_3
 
 This is a command-line interface application for sorting through hisotrical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase.  The goal is to apply the three phases of financial analysis to determine if any arbitrage opportunities exist for bitcoin.
 ---
